@@ -9,6 +9,7 @@ id = 2e089a42-8a6a-4bd7-a05c-74f63355d0a7
 
 [config.relations.collections]
 rootDirectory = NTg/Elm/HUIC
+files[] = {"id":"9097488-f5685e0c-c384-4353-a2e9-81c8a9023bfc","path":"1. HUIC.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
